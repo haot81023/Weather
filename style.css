@@ -1,0 +1,13 @@
+body{
+    background-color: #f7f7f7;
+}
+
+.card{
+    margin-top: 20px;
+    display: none;
+}
+
+#weather-display{
+    background-color: #007bff;
+    color:white;
+}
